@@ -12,6 +12,9 @@ output/*
 !media/assets/
 media/assets/*
 !media/assets/.gitkeep
+!media/assets/*/
+media/assets/*/*
+!media/assets/*/.gitkeep
 !media/music/
 media/music/*
 !media/music/.gitkeep
